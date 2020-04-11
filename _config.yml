@@ -1,13 +1,19 @@
-title: Your awesome title
-author: GitHub User
+title: Create your one blog
+author: May-hub
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+    First it all the only pitch you will new basic knowledge of Github https://guides.github.com/activities/hello-world/ and some contend, that you already have had done 
+  of whatever you feel confortble to post. 
+    once you finalize the steps from github you may be ready to start your own blog, now you just need right down you content the GitHub 
+    will take care of the rest for.
+    
+    If you need more information, you can watch the video step by step instend of do by yourself from Github guide.
+  just click on the link below
+  https://www.youtube.com/watch?v=noZnOSpcjYY
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
